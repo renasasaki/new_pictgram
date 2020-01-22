@@ -1,0 +1,2 @@
+class SasakirenasController < ApplicationController
+end
